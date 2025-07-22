@@ -34,7 +34,7 @@ You can visit my personal website to explore my projects and work:
 
 - LinkedIn: [hasnain-yaqoob-](https://www.linkedin.com/in/hasnain-yaqoob-/)  
 - GitHub: [hasnainyaqub](https://github.com/hasnainyaqub)  
-- Kaggle: [/hasnainyaqooob](https://www.kaggle.com/hasnainyaqooob)
+- Kaggle: [hasnainyaqooob](https://www.kaggle.com/hasnainyaqooob)
 
 ## Current Goal
 
